@@ -5,6 +5,7 @@
   You can convert indistinct QR code image into distinct image. <br>
   
   ![input](images/input.png)
+  ![output](images/output.png)
   
 ## Dataset Preparation
  - qr_dataset : https://www.kaggle.com/coledie/qr-codes <br>
