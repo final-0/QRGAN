@@ -13,8 +13,8 @@
     <td><img src="images/output.png" width=192 height=192></td>
    </tr>
    <tr>
-    <td>input</td>
-    <td>output</td>
+    <td align="center">input</td>
+    <td align="center">output</td>
    </tr>
   </table>
   
