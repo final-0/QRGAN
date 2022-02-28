@@ -5,7 +5,7 @@
   You can convert indistinct QR code image into distinct image. <br>
   
   ![input](images/input.png)
-→
+  &emsp;
   ![output](images/output.png)
   
 ## Dataset Preparation
