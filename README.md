@@ -5,7 +5,7 @@
   You can convert indistinct QR code image into distinct image. <br>
   
   <img src="images/input.png" width=192 height=192>&emsp;<img src="images/output.png" width=192 height=192><br>
-  <pre>    input      output  </pre>
+  <pre>         input            output  </pre>
   
   <table>
    <tr>
