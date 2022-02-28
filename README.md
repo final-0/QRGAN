@@ -10,7 +10,7 @@
  
      recommendation  <br>
      &emsp; image-size : 256x256 pixel <br>
-     &emsp; number of images : 1000 
+     &emsp; number of images : 1000 <br>
      &emsp; epoch : 1
 
 
