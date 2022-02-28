@@ -5,7 +5,7 @@
   You can convert indistinct QR code image into distinct image. <br>
   
   <img src="images/input.png" width=192 height=192>&emsp;<img src="images/output.png" width=192 height=192><br>
-  &emsp; input &emsp; output
+  <pre>    input      output  </pre>
   
   <table>
    <tr>
@@ -18,14 +18,6 @@
    </tr>
   </table>
   
-  <div>
-    <img src="images/input.png" width=192 height=192>
-    <img src="images/output.png" width=192 height=192>
-  </div>
-  <div>
-    input
-    output
-  </div>
   
 ## Dataset Preparation
  - qr_dataset : https://www.kaggle.com/coledie/qr-codes <br>
