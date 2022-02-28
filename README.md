@@ -4,11 +4,9 @@
   QRGAN is capable of generating realistic QR code image. <br>
   You can convert indistinct QR code image into distinct image. <br>
   
-  ![input](images/input.png)
+  <img src="images/input.png" width=128 height=128 alt="input">
   &emsp;
-  ![output](images/output.png)
-  
-  <p><img src="images/input.png" width=100 height=100>input</p>
+  <img src="images/output.png" width=128 height=128>
   
   
 ## Dataset Preparation
