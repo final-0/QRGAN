@@ -1,8 +1,8 @@
 # QRGAN
 
 ## Abstract
-  QRGAN is capable of generating realistic QR code image. <br>
-  You can convert indistinct QR code image into distinct image. <br>
+  QRGAN is capable of generating realistic QR code images. <br>
+  You can convert indistinct QR code images into distinct images. <br>
   
   <table>
    <tr>
