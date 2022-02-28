@@ -8,6 +8,8 @@
   &emsp;
   ![output](images/output.png)
   
+  <img src="images/input.png" width=100 height=100 alt="input">
+  
 ## Dataset Preparation
  - qr_dataset : https://www.kaggle.com/coledie/qr-codes <br>
  
