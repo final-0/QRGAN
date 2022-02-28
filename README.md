@@ -7,6 +7,17 @@
   <img src="images/input.png" width=192 height=192>&emsp;<img src="images/output.png" width=192 height=192><br>
   &emsp; input &emsp; output
   
+  <table>
+   <tr>
+    <td><img src="images/input.png" width=192 height=192></td>
+    <td><img src="images/output.png" width=192 height=192></td>
+   </tr>
+   <tr>
+    <td>input</td>
+    <td>output</td>
+   </tr>
+  </table>
+  
   
 ## Dataset Preparation
  - qr_dataset : https://www.kaggle.com/coledie/qr-codes <br>
