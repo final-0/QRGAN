@@ -18,6 +18,14 @@
    </tr>
   </table>
   
+  <div>
+    <img src="images/input.png" width=192 height=192>
+    <img src="images/output.png" width=192 height=192>
+  </div>
+  <div>
+    input
+    output
+  </div>
   
 ## Dataset Preparation
  - qr_dataset : https://www.kaggle.com/coledie/qr-codes <br>
